@@ -128,7 +128,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ⚠️ Note: The file `model_pipeline.joblib` is not included in this repository because it exceeds GitHub's web upload size limit. To generate the model locally, run: python train_model.py
 
-python train_model.py
 
 **Made with ❤️ for the Australian job market**
 
